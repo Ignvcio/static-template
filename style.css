@@ -1,0 +1,42 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  background: black;
+  color: white;
+}
+.body a {
+  background: black;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+.nav {
+  text-align: right;
+}
+.nav-link {
+  background: black;
+  color: white;
+}
+.cover {
+  margin-top: 200px;
+}
+.links {
+  text-decoration: none;
+}
+
+.links:hover {
+  text-decoration: underline;
+  color: white;
+}
+.Align {
+  float: right;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
